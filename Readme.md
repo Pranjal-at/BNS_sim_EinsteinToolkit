@@ -4,9 +4,7 @@ This project demonstrates an **equal-mass binary neutron star (BNS) merger simul
 
 The example simulation uses a **polytropic equation of state (EoS)**. The Einstein Toolkit now also has modules for **tabulated EoS**, as mentioned on their official website.
 
+**Weyl Scalar ψ₄ (ℓ=2, m=2) at r = 300M**
 
 ![Weyl Scalar ψ₄ (ℓ=2, m=2) at r = 300M](mp_Psi4_l2_m2_r300.00.png)
 
-<video width="640" height="480" controls>
-  <source src="rho.mp4" type="video/mp4">
-</video>
