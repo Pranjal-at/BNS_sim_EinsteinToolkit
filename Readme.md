@@ -6,3 +6,7 @@ The example simulation uses a **polytropic equation of state (EoS)**. The Einste
 
 
 ![Weyl Scalar ψ₄ (ℓ=2, m=2) at r = 300M](mp_Psi4_l2_m2_r300.00.png)
+
+<video width="640" height="480" controls>
+  <source src="rho.mp4" type="video/mp4">
+</video>
