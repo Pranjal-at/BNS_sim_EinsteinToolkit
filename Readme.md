@@ -11,3 +11,5 @@ The example simulation uses a **simple polytropic equation of state (EoS)**. The
 ![Weyl Scalar ψ₄ (ℓ=2, m=2) at r = 300M](mp_Psi4_l2_m2_r300.00.png)
 
 The BNS simulation visualization can be found here ![Video](rho.mp4)
+
+**Note**: This is a low-resolution test simulation and does not accurately capture the microphysics in BNS mergers.
